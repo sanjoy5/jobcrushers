@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "category_logo": "https://i.ibb.co/Fq06kBp/engineer.png",
+        "category_name": "Software Engineer",
+        "jobs_available": "200 Jobs Available"
+    },
+    {
+        "id": 2,
+        "category_logo": "https://i.ibb.co/pn786WT/business-analyst.png",
+        "category_name": "Data Analyst",
+        "jobs_available": "120 Jobs Available"
+    },
+    {
+        "id": 3,
+        "category_logo": "https://i.ibb.co/74Wd5sy/ux-design.png",
+        "category_name": "UX Designer",
+        "jobs_available": "350 Jobs Available"
+    },
+    {
+        "id": 4,
+        "category_logo": "https://i.ibb.co/jz5Szm0/accounting.png",
+        "category_name": "Marketing Manager",
+        "jobs_available": "250 Jobs Available"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "A1",
+        "assignment-marks": 60
+    },
+    {
+        "id": 2,
+        "name": "A2",
+        "assignment-marks": 60
+    },
+    {
+        "id": 3,
+        "name": "A3",
+        "assignment-marks": 58
+    },
+    {
+        "id": 4,
+        "name": "A4",
+        "assignment-marks": 60
+    },
+    {
+        "id": 5,
+        "name": "A5",
+        "assignment-marks": 60
+    },
+    {
+        "id": 6,
+        "name": "A6",
+        "assignment-marks": 59
+    },
+    {
+        "id": 7,
+        "name": "A7",
+        "assignment-marks": 60
+    },
+    {
+        "id": 8,
+        "name": "A8",
+        "assignment-marks": 60
+    },
+    {
+        "id": 9,
+        "name": "A9",
+        "assignment-marks": 60
+    }
+]

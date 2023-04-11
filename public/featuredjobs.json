@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "company_logo": "https://i.ibb.co/Z8cpYtW/facebook.png",
+        "job_title": "Marketing Manager",
+        "company_name": "Meta Platforms, Inc.",
+        "remote_or_onsite": "Remote",
+        "location": "Anywhere",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$80,000 - $100,000",
+        "job_description": "Marketing Co. is seeking an experienced marketing manager to lead our marketing team. In this role, you will be responsible for developing and executing marketing strategies that drive business growth. You will work closely with other teams in the company, including sales and product, to ensure alignment and achieve business objectives. The ideal candidate will have experience in B2B marketing, a strong understanding of marketing automation tools, and a track record of driving results.",
+        "job_responsibility": "Responsibilities include:\n- Develop and execute marketing strategies that drive business growth\n- Collaborate with sales and product teams to ensure alignment and achieve business objectives\n- Manage and mentor a team of marketing professionals\n- Oversee marketing automation tools and processes\n- Analyze marketing data and use insights to optimize campaigns\n- Stay up-to-date with emerging trends and technologies in marketing\n- Communicate effectively with team members and stakeholders",
+        "educational_requirements": "Bachelor's degree in Marketing or related field",
+        "experiences": "7+ years of experience in marketing",
+        "contact_information": {
+            "phone": "555-555-5555",
+            "email": "jobs@techco.com"
+        }
+    },
+    {
+        "id": 2,
+        "company_logo": "https://i.ibb.co/m9cQFcR/google-1-1-logo-png-transparent.png",
+        "job_title": "Software Developer",
+        "company_name": "Google LLC.",
+        "remote_or_onsite": "Onsite",
+        "location": "New York, NY",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$90,000 - $110,000",
+        "job_description": "Tech Co. is seeking a talented software engineer to join our team. In this role, you will work on developing and maintaining our flagship product, which is used by millions of people around the world. You will work with a team of experienced engineers and collaborate with other teams in the company to deliver high-quality software products. The ideal candidate will have experience in developing scalable web applications and a strong understanding of software engineering principles.",
+        "job_responsibility": "Responsibilities include:\n- Design, develop, and maintain scalable web applications\n- Collaborate with other teams in the company to deliver high-quality software products\n- Write clean, maintainable, and well-documented code\n- Participate in code reviews and contribute to the development of best practices\n- Stay up-to-date with emerging trends and technologies in software engineering\n- Communicate effectively with team members and stakeholders",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field",
+        "experiences": "5+ years of experience in software development",
+        "contact_information": {
+            "phone": "555-555-5555",
+            "email": "jobs@marketingco.com"
+        }
+    },
+    {
+        "id": 3,
+        "company_logo": "https://i.ibb.co/r2SmyBv/amazon.png",
+        "job_title": "Accountant",
+        "company_name": "Amazon.com, Inc.",
+        "remote_or_onsite": "Onsite",
+        "location": "Dallas, TX",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$60,000 - $80,000",
+        "job_description": "The Accountant will be responsible for managing all aspects of the organization's financial reporting and accounting functions. This includes maintaining accurate and timely financial records, preparing financial statements, and managing the budgeting process. The Accountant will work closely with senior management to provide financial analysis and reporting to support strategic decision-making.",
+        "job_responsibility": "Responsibilities include:\n- Generate new business through prospecting and lead generation\n- Maintain relationships with existing clients and upsell products and services\n- Achieve sales targets and drive revenue growth\n- Collaborate with the sales manager and other teams in the company to achieve sales goals\n- Use sales software to track and manage sales activities\n- Stay up-to-date with emerging trends and technologies in sales\n- Communicate effectively with clients and internal stakeholders",
+        "educational_requirements": "Bachelor's degree in Accounting or related field",
+        "experiences": "3+ years of experience in accounting",
+        "contact_information": {
+            "phone": "555-555-5555",
+            "email": "jobs@financecorp.com"
+        }
+    },
+    {
+        "id": 4,
+        "company_logo": "https://i.ibb.co/Rv2vMRp/insta.png",
+        "job_title": "Graphic Designer",
+        "company_name": "Meta Platforms, Inc.",
+        "remote_or_onsite": "Remote",
+        "location": "Anywhere",
+        "fulltime_or_parttime": "Part-time",
+        "salary": "$30 - $40 per hour",
+        "job_description": "Design Co. is seeking a talented graphic designer to join our team. In this role, you will work on creating visual assets for our clients, including logos, branding materials, and marketing collateral. You will collaborate with other designers and the creative director to deliver high-quality design solutions that meet our clients' needs. The ideal candidate will have experience in graphic design, a strong understanding of design principles, and proficiency in design software.",
+        "job_responsibility": "Responsibilities include:\n- Create visual assets for clients, including logos, branding materials, and marketing collateral\n- Collaborate with other designers and the creative director to deliver high-quality design solutions\n- Communicate effectively with clients to understand their design needs\n- Stay up-to-date with emerging trends and technologies in design\n- Use design software to create and edit visual assets\n- Manage multiple projects simultaneously and meet deadlines",
+        "educational_requirements": "Bachelor's degree in Graphic Design or related field",
+        "experiences": "2+ years of experience in graphic design",
+        "contact_information": {
+            "phone": "555-555-5555",
+            "email": "jobs@designco.com"
+        }
+    },
+    {
+        "id": 5,
+        "company_logo": "https://i.ibb.co/sCP9F2H/airbnb.png",
+        "job_title": "Human Resources Manager",
+        "job_description": "The Human Resources Manager will be responsible for managing all aspects of the HR function for the organization. This includes developing and implementing HR policies and procedures, managing employee relations, performance management, talent acquisition, compensation and benefits, and ensuring compliance with all applicable employment laws and regulations. The HR Manager will work closely with senior management to develop and implement strategies to attract, retain, and develop talent, and will play a key role in shaping the culture and values of the organization.",
+        "job_responsibility": "Responsibilities include:\n- Develop and execute marketing strategies that drive business growth\n- Collaborate with sales and product teams to ensure alignment and achieve business objectives\n- Manage and mentor a team of marketing professionals\n- Oversee marketing automation tools and processes\n- Analyze marketing data and use insights to optimize campaigns\n- Stay up-to-date with emerging trends and technologies in marketing\n- Communicate effectively with team members and stakeholders",
+        "company_name": "Airbnb, Inc.",
+        "remote_or_onsite": "Remote",
+        "location": "San Francisco, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$100,000 - $120,000",
+        "educational_requirements": "Bachelor's degree in Human Resources or related field",
+        "experiences": "5+ years of experience in HR management",
+        "contact_information": {
+            "phone": "555-555-5555",
+            "email": "jobs@hrco.com"
+        }
+    },
+    {
+        "id": 6,
+        "company_logo": "https://i.ibb.co/gdGSmnC/tesla.png",
+        "job_title": "Sales Representative",
+        "company_name": "Tesla, Inc.",
+        "remote_or_onsite": "Onsite",
+        "location": "Chicago, IL",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$50,000 - $70,000",
+        "job_description": "Sales Co. is seeking a motivated sales representative to join our team. In this role, you will be responsible for generating new business and maintaining relationships with existing clients. You will work closely with the sales manager and other teams in the company to achieve sales goals and drive revenue growth. The ideal candidate will have experience in B2B sales, a track record of exceeding sales targets, and excellent communication skills.",
+        "job_responsibility": "Responsibilities include:\n- Generate new business through prospecting and lead generation\n- Maintain relationships with existing clients and upsell products and services\n- Achieve sales targets and drive revenue growth\n- Collaborate with the sales manager and other teams in the company to achieve sales goals\n- Use sales software to track and manage sales activities\n- Stay up-to-date with emerging trends and technologies in sales\n- Communicate effectively with clients and internal stakeholders",
+        "educational_requirements": "Bachelor's degree in Business or related field",
+        "experiences": "2+ years of experience in sales",
+        "contact_information": {
+            "phone": "555-555-5555",
+            "email": "jobs@salesco.com"
+        }
+    }
+]
